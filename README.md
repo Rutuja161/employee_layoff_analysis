@@ -30,3 +30,12 @@ The dataset includes the following fields:
 - Stage: Company stage (e.g., startup, established).
 - Country: Country where the company is based.
 - Funds Raised: Total funds raised by the company.
+
+## Insights
+Some of the insights derived include:
+
+- Identification of companies with the highest layoffs.
+- Key locations and countries where layoffs were most prevalent.
+- Correlation between the amount of funds raised and the number of layoffs.
+- Industry trends in layoffs.
+- Year-on-year analysis to identify trends over time.
